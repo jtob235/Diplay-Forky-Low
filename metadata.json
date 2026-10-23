@@ -1,0 +1,6 @@
+{
+  "name": "DiPlay AudioFix — Fork CarPlay para Android",
+  "description": "Fork optimizado de DiPlay (CarPlay para Android) con solución integral a los microcortes de audio: buffer adaptativo, resampleo 48kHz con PLL y prioridad de hilo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
